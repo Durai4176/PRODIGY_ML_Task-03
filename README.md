@@ -47,6 +47,12 @@ PRODIGY_ML_Task-03/
 - Images are organized into folders
 - Folder names act as **class labels**
 
+## 📥 Dataset drive link:
+```
+https://drive.google.com/drive/folders/10CC4cqMYGbnhSPnZmopHBiMh8YHjsCtV?usp=sharing
+```
+
+
 ### Label Encoding
 - cats → Label **0**  
 - dogs → Label **1**
